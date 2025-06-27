@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(255, 253, 253);
+    img{
+    border-radius: 50%;
+}
+}
+h1{
+    color: rgb(13, 18, 18);
+   
+    font-style: oblique;
+    font-size: xx-large;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+}
+.car{
+    background-color: rgb(194, 216, 216);
+}
